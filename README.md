@@ -1,2 +1,2 @@
 # WpfTest
-An addition game
+An addition game I wrote while familiarizing myself with C#.
