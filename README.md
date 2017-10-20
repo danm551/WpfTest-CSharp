@@ -1,2 +1,2 @@
-# WpfTest-CSharp
+# WpfTest
 An addition game
